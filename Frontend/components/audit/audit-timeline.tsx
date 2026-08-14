@@ -4,7 +4,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   ChevronDown,
-  Globe,
+  Gloe,
   Users,
   Brain,
   ShieldAlert,
